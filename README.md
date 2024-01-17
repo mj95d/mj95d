@@ -17,7 +17,4 @@ Here are some ideas to get you started:
 <!DOCTYPE html>
 
 
- <h1> اهلا بكم في عالمي </h1>
-
- ><img src="[assets/images/youtube-play.svg](https://www.youtube.com/watch?v=anGEBtC9GhA)https://www.youtube.com/watch?v=anGEBtC9GhA" alt="youtube"
- /></a>
+ <h1>  اهلا بكم هنا           </h1>
