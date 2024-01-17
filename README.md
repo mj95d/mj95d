@@ -19,13 +19,6 @@ Here are some ideas to get you started:
 </head>
 14 <body>
 15 <header>
-16 <h1> In the world of AbdulMajeed  </h1>
-17 <style>
-18 a {
-19 margin-right: 10px;
-20 }
-21 </style>
-22 <nav>
+16 <h1> اهلا بكم في عالمي </h1>
 
-26 </nav>
 27 </header>
