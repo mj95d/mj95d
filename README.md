@@ -9,7 +9,7 @@ I’m **Abdulmajeed**
 Passionate about:
 - 🔐 Cybersecurity  
 - 🐍 Python Programming  
-- 🕵️ PT, SOC, Bug, Bounty And CTF Challenges  
+- 🕵️ PT, SOC, Bug Bounty And CTF Challenges  
 
 ---
 
