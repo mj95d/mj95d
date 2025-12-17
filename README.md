@@ -1,6 +1,7 @@
 <!-- Cybersecurity Banner Centered -->
 <p align="center">
-  <img src="https://img.freepik.com/free-vector/cyber-security-concept_23-2148532223.jpg" alt="Cybersecurity Banner" width="800"/>
+  <img src="![Uploading cyberpunk_abdulmajeed_wallpaper.png…]()
+" alt="Cybersecurity Banner" width="800"/>
 </p>
 
 # 👋 Welcome to My Profile
